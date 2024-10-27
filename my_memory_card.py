@@ -141,7 +141,9 @@ q9 = Question ('кто спас гг dl2 когда он попал на баз�
 q10 = Question ('какая фракция разлила химикаты в Виледоре?',
 'Ревенаты','Миротворцы','Жители','Сам гг')
 vopros_list.append(q10)
-
+q11 = Question ('why so serious?',
+'jonkler','pupuppuppu','hruhru','YES')
+vopros_list.append(q11)
 
 def next_question():
     main_win.total += 1
